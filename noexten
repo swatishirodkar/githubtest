@@ -1,0 +1,13 @@
+# This is my first Bash shell Program
+echo "Welcome to Bash shell program"
+echo "This is first program"
+echo Thank you ...!!!
+
+
+hostname -d
+
+
+date +%F
+
+
+cal -j
